@@ -22,6 +22,6 @@ An interactive Power BI dashboard tracking Netflix's global movie and TV show li
 
 ## 📂 Repository Resources
 
-* 📊 [Netflix Power BI Dashboard (.pbix)](Netflix_Dashboard.pbix)
+* 📊 [Netflix Power BI Dashboard (.pbix)](NETFLIX%20DASHBOARD.pbix)
 * 📁 [Netflix Raw Dataset (.csv)](Netflix_Dataset.csv)
 * 📑 [Project Documentation (README.md)](README.md)
