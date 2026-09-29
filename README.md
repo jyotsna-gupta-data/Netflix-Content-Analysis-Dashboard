@@ -1,4 +1,5 @@
 # 🎬 Netflix Content Analysis Dashboard
+![Download Preview](Screenshot%202026-09-29%20225349.png)
 
 An interactive Power BI dashboard tracking Netflix's global movie and TV show library, rating trends, genres, and overall growth.
 
